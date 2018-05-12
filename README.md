@@ -1,4 +1,4 @@
-# FeeManager
+# Fee Manager
 A Project for coaching classes to manage the fee of their Students.
 
 # Installation
@@ -12,7 +12,7 @@ A Project for coaching classes to manage the fee of their Students.
 - Create a database named feemanager and import "feemanager.sql" in it.
 - Import jars which are attached in the project
 
-# Instructions to run as spring boot project
+# Instructions to run as JAVA Web Application
 
 - Import project in netbeans or eclipse.
 - Import jars which are attached in the project.
